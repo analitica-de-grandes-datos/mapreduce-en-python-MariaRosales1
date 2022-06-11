@@ -5,9 +5,9 @@ import sys
 
 
 def clear_spaces(x):
-    x = x.replace("\n", "")
-    x = x.replace("\r", "")
-    return x
+    x = x.replace("\n", "")
+    x = x.replace("\r", "")
+    return x
 
 
 def purpose_amount(x):
