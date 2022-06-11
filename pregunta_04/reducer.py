@@ -1,6 +1,7 @@
 #
 # >>> Escriba el codigo del reducer a partir de este punto <<<
 #
+import sys
 biggest_purposes = {}
 
 def set_bigger_purpose(dictionary_purposes, actual_element):
